@@ -29,4 +29,4 @@ None. I do not play with Java. I build Linux Distributions, and run Python, C++,
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-Nothing as I will not apply for a career in software security or Java coding.
+Nothing as I will not apply for a career in software security or Java coding. And I will not be showing them GitHub as I think GitHub is trash as well. I will be deleteing all of Github as soon as I have my bacholers degree.
